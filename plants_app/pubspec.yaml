@@ -1,0 +1,37 @@
+name: plants_app
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.4.4 <4.0.0'
+
+dependencies:
+
+  flutter:
+    sdk: flutter
+  flutter_svg: ^2.0.16
+  google_fonts: ^6.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/plant1.png
+    - assets/plant2.png
+    - assets/plant3.png
+    - assets/circle.svg
+    - assets/circleRight.svg
+    - assets/homePlant.jpg
+    - assets/phone.svg
+    - assets/Group 5316.svg
+    - assets/Group 5460.svg
+    - assets/banner.svg
+    - assets/₹350.svg
+    - assets/Mask group.svg
+    - assets/Rectangle1.svg
+    - assets/Rectangle2.svg
