@@ -21,17 +21,4 @@ dev_dependencies:
 flutter:
   uses-material-design: true
   assets:
-    - assets/plant1.png
-    - assets/plant2.png
-    - assets/plant3.png
-    - assets/circle.svg
-    - assets/circleRight.svg
-    - assets/homePlant.jpg
-    - assets/phone.svg
-    - assets/Group 5316.svg
-    - assets/Group 5460.svg
-    - assets/banner.svg
-    - assets/₹350.svg
-    - assets/Mask group.svg
-    - assets/Rectangle1.svg
-    - assets/Rectangle2.svg
+    - assets/
